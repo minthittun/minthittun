@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a full-stack developer. I have experienced in web and mobile application development and designing architecture.
+
 <!--
 **minthittun/minthittun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
