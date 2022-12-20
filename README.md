@@ -4,10 +4,10 @@ My name is Min Thit Tun and I am a dedicated and passionate IT professional with
 
 
 My blog: \
-https://medium.com/@minthittun. \
+https://medium.com/@minthittun
 
 My Portfolio website: \
-https://minthittun.github.io /
+https://minthittun.github.io
 
 
 <!--
