@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a full-stack developer. I have experienced in web and mobile application development and designing architecture.
-
+My name is Min Thit Tun and I am a dedicated and passionate IT professional with a strong determination to meet all assigned goals. I am an IT professional with over 10 years of experience in software development and technical stacks. In addition, I am also experienced in the latest technologies such as AI, WebRTC and IoT. In my spare time, I write blogs about software development related articles. Please see my Medium blog at
+https://medium.com/@minthittun.
 <!--
 **minthittun/minthittun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
