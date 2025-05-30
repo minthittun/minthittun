@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-My name is Min Thit Tun and I am a dedicated and passionate IT professional with a strong determination to meet all assigned goals. I am an IT professional with over 10 years of experience in software development and technical stacks. In addition, I am also experienced in the latest technologies such as AI, WebRTC and IoT. In my spare time, I write blogs about software development related articles. 
+I’m a software engineer and tech entrepreneur with over 10 years of experience building scalable systems, leading engineering teams, and driving product innovation. I specialize in full-stack development, particularly with MERN, .NET, Django, and Node.js, and enjoy designing clean, maintainable architectures that support long-term growth.
+
+Throughout my career, I’ve led technical teams, shipped complex applications, and explored emerging technologies like AI, IoT, and WebRTC. My work bridges hands-on coding with system design and strategic thinking. I thrive in startup environments, where building from the ground up, solving real problems, and delivering value fast is key.
+
+What I bring:
+- Deep technical knowledge (MERN, .NET, Django, Node.js)
+- Clean architecture & scalable system design
+- Startup & product-building experience
+- Team leadership & mentoring
+- Continuous learning & problem-solving mindset
+
+I’m always excited to collaborate on impactful projects and connect with others in tech who value innovation, efficiency, and great engineering.
 
 LinkedIn:
 https://www.linkedin.com/in/min-thit-tun-421345109/
