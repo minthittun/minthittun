@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I’m a software engineer and tech entrepreneur with over 10 years of experience building scalable systems, leading engineering teams, and driving product innovation. I specialize in full-stack development, particularly with MERN, .NET, Django, and Node.js, and enjoy designing clean, maintainable architectures that support long-term growth.
 
 Throughout my career, I’ve led technical teams, shipped complex applications, and explored emerging technologies like AI, IoT, and WebRTC. My work bridges hands-on coding with system design and strategic thinking. I thrive in startup environments, where building from the ground up, solving real problems, and delivering value fast is key.
